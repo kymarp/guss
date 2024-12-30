@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            random number
+        </title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body><center>        
+        <button id="but">roll</button>
+        <p id="lab1" class="label"></p>
+        <p id="lab2" class="label"></p>
+        <p id="lab3" class="label"></p>
+
+    </center>
+    <script src="index.js"></script>
+    </body>
+</html>
